@@ -13,3 +13,4 @@ clase MyApp (wx.App): def init (self): super (). init (clearSigInt = True)
 def InitFrame(self):
     frame = MyFrame(parent=None, title="Basic Frame", pos=(100, 100))
     frame.Show(True)
+    
