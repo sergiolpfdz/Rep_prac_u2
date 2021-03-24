@@ -8,7 +8,8 @@ app = wx.App (clearSigInt = True) # clearSigInt para permitir la terminación de
 
 clase MyApp (wx.App): def init (self): super (). init (clearSigInt = True)
 
-`<addr>`#init frame
+`<addr>`
+#init frame
     self.InitFrame()
 
 def InitFrame(self):
