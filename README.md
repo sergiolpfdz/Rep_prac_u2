@@ -7,6 +7,7 @@ app = wx.App (clearSigInt = True) # clearSigInt para permitir la terminación de
 #ejemplo 2 import wx import webbrowser
 
 clase MyApp (wx.App): def init (self): super (). init (clearSigInt = True)
+
 #init frame
     self.InitFrame()
 
