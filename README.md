@@ -46,7 +46,7 @@ class MyPanel (wx.Panel): # Un panel es una ventana en la que se colocan los con
 
 ![image](https://user-images.githubusercontent.com/79875888/112421035-f2009c80-8cf3-11eb-8365-de376ac3c0d4.png)
 
-si nombre == " principal 
+si nombre == " principal"
 
 ![image](https://user-images.githubusercontent.com/79875888/112421184-3855fb80-8cf4-11eb-8620-97773b686e62.png)
 
@@ -66,7 +66,8 @@ clase mi_panel (wx.Panel
 ![image](https://user-images.githubusercontent.com/79875888/112421608-f6798500-8cf4-11eb-8dd0-45fc8a3376da.png)
 ![image](https://user-images.githubusercontent.com/79875888/112421723-38a2c680-8cf5-11eb-9b17-3b97d4f70551.png)
 
-EJECUCION DEL PROGRAMA
+EJECUCION DEL 
+
 if nombre == ' principal ': aplicación = MyApp () app.MainLoop 
 
 ![image](https://user-images.githubusercontent.com/79875888/112421875-8b7c7e00-8cf5-11eb-8298-b73007699d5d.png)
